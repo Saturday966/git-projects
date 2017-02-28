@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello git
 vnbncnc vcbc
+=======
+Hello git Branch
+>>>>>>> Test Branch
